@@ -4,8 +4,8 @@ from typing import List
 #Declaring variables for setup functions
 PROJECT_NAME="housing-predictor"
 VERSION="0.0.1"
-AUTHOR="Avnish Yadav"
-DESRCIPTION="This is a first FSDS Nov batch Machine Learning Project"
+AUTHOR="Sayan Banerjee"
+DESRCIPTION="This is a FSDS Nov batch Machine Learning Project"
 PACKAGES=["housing"]
 REQUIREMENT_FILE_NAME="requirements.txt"
 
